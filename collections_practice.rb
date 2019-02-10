@@ -1,3 +1,4 @@
-def [2,6,8,4,] .sort 
+def number[2,6,8,4,] 
+  number.sort 
 end
 
